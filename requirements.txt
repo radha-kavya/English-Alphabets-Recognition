@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python-headless
+scikit-learn
+streamlit
+streamlit-webrtc
+mediapipe
+joblib
+imutils
+pillow
+huggingface_hub
